@@ -12,7 +12,7 @@ Run the script it will open webpage for grant permissions.
 Please login with your tenant *USER ID* and **PASSWORD**
 
 
-![Image](D:/Scripts/TeamAppsforTenantUsers/TeamAppsnstalledForTenantUsers/New folder/singin.png)
+![Image](https://github.com/v-karapa/TeamAppsnstalledForTenantUsers/blob/master/New%20folder/singin.png)
 
 Once you are login it will shows the 
 
